@@ -33,5 +33,7 @@
 </table>
 
 ## Art && Code
+> more coming soon
 
-## Vision
+## My personal vision
+> more coming soon
